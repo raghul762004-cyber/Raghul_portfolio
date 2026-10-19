@@ -1,0 +1,1 @@
+Place your profile image in this folder and name it profile.jpg. The website will load it automatically.
